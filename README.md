@@ -1,5 +1,13 @@
 # Agno Chatbot - React Frontend + FastAPI Backend
 
+A conversational chatbot for your website build in 15 min. The chatbot in the first step takes in the url of your website and scrapes all the website and stores the information of the website as knowledge base. The agent can then be deployed to your websit easily using html iframe. The model can work as a chatbot for your website where users can come and ask questions about your website and get human response like answers. 
+
+# Improvements
+
+- we will add an option to optinally upload documents like pdf's , text or word documents along with the url's so the chatbot can get and keep knowledge about the website not only from url's but also from documents.
+- Add the abilty for the chatbot to navigate to a certain place in the website what user actually to go.
+
+
 A full-stack chatbot application using Agno AI with a React frontend and FastAPI backend.
 
 ## Project Structure
