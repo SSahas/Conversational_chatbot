@@ -5,7 +5,7 @@ A conversational chatbot for your website build in 15 min. The chatbot in the fi
 # Improvements
 
 - we will add an option to optinally upload documents like pdf's , text or word documents along with the url's so the chatbot can get and keep knowledge about the website not only from url's but also from documents.
-- Add the abilty for the chatbot to navigate to a certain place in the website what user actually to go.
+- Add the abilty for the chatbot to navigate to a certain place in the website where the user actually wants to go.
 
 
 A full-stack chatbot application using Agno AI with a React frontend and FastAPI backend.
