@@ -49,7 +49,10 @@ docker run -d --name agno-qdrant -p 6333:6333 qdrant/qdrant
 ```bash
 uv sync
 ```
-also run uv run playwright install chromium
+please run the below command after step 2
+```bash
+uv run playwright install chromium
+```
 
 ### 3. Install Frontend Dependencies
 
